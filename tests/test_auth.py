@@ -1,5 +1,3 @@
-# tests/test_auth.py
-
 import unittest
 from app.auth import Auth
 
